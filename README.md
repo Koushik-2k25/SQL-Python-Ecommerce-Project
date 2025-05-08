@@ -2,8 +2,6 @@
 
 This project provides data-driven insights into customer behavior, sales performance, and business trends using SQL for querying and Python for analysis and visualization. It connects to a MySQL e-commerce database to extract meaningful metrics and visualize patterns.
 
----
-
 ## 🚀 Features
 
 - Extracted and analyzed customer locations, order counts, and purchase behavior.
@@ -12,8 +10,6 @@ This project provides data-driven insights into customer behavior, sales perform
 - Computed customer retention, seller performance, and growth rates.
 - Visualized results using `matplotlib` and `seaborn`.
 
----
-
 ## 📂 Technologies Used
 
 - **Python**: `pandas`, `numpy`, `matplotlib`, `seaborn`
@@ -21,14 +17,10 @@ This project provides data-driven insights into customer behavior, sales perform
 - **Database**: MySQL
 - **Tools**: Jupyter Notebook / Python Script
 
----
-
 ## 📁 Dataset
 
 - Kaggle E-commerce Dataset:  
   🔗 [Target Dataset on Kaggle](https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv)
-
----
 
 ## 📈 Key Analyses & Queries
 
@@ -53,8 +45,6 @@ This project provides data-driven insights into customer behavior, sales perform
 - Top-performing sellers by revenue
 - Top 3 customers per year by spend
 
----
-
 ## 📊 Visualizations
 
 Includes:
@@ -63,10 +53,7 @@ Includes:
 - Line chart for cumulative monthly sales
 - Multi-year top customer rankings
 
----
-
 ## 📌 Learnings
 
 - Hands-on practice with SQL `JOIN`, `CTE`, `DENSE_RANK`, `LAG`, `AVG OVER` functions.
 - Python analytics
-
