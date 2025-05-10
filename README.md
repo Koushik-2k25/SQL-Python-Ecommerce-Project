@@ -78,7 +78,7 @@ Includes:
 - Line chart for cumulative monthly sales
 - Multi-year top customer rankings
 
-## ✅ Key Outcomes
+## 🎯 Key Outcomes
 - **90,202 orders** in 2017  
 - Top sales categories: **Perfumery**, **Bed/Table/Bath**, **Furniture**  
 - **99.99%** of orders paid via installments  
