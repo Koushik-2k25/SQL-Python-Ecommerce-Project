@@ -22,6 +22,13 @@ This project provides data-driven insights into customer behavior, sales perform
 - Kaggle E-commerce Dataset:  
   🔗 [Target Dataset on Kaggle](https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv)
 
+## 🧪 Project Notebook
+
+You can explore the full working notebook with all SQL queries, Python code, and visualizations on GitHub:
+
+🔗 [View The Whole Project](https://github.com/Koushik-2k25/SQL-Python-Ecommerce-Project/blob/main/python%2Bsql_ecommerce.ipynb)
+
+
 ## 🧩 Questions Explored in Project
 
 1. List all unique cities where customers are located.
